@@ -1,0 +1,103 @@
+﻿"PA005: KESKMINE BRUTOPALK, TÖÖJÕUKULU JA TÖÖTATUD TUNNID | Näitaja, Omaniku liik ning Vaatlusperiood"
+
+"Näitaja","Omaniku liik","2018","2018 I kvartal","2018 II kvartal","2018 III kvartal","2018 IV kvartal","2019","2019 I kvartal","2019 II kvartal","2019 III kvartal","2019 IV kvartal","2020","2020 I kvartal","2020 II kvartal","2020 III kvartal","2020 IV kvartal","2021","2021 I kvartal","2021 II kvartal","2021 III kvartal","2021 IV kvartal"
+"Keskmine brutokuupalk, eurot","Kokku",1310,1242,1321,1291,1384,1407,1341,1419,1397,1472,1448,1404,1433,1441,1515,1548,1473,1538,1553,1625
+"Keskmine brutokuupalk, eurot","Riik",1622,1537,1634,1562,1755,1781,1705,1817,1723,1877,1857,1814,1858,1810,1946,1964,1877,1978,1913,2089
+"Keskmine brutokuupalk, eurot","Kohalik omavalitsus",1157,1066,1175,1111,1274,1263,1169,1283,1221,1376,1299,1222,1309,1264,1403,1366,1279,1373,1324,1489
+"Keskmine brutokuupalk, eurot","Eesti eraõiguslik isik",1171,1110,1169,1171,1237,1252,1191,1251,1259,1306,1262,1230,1224,1278,1320,1366,1293,1339,1396,1435
+"Keskmine brutokuupalk, eurot","Välismaa eraõiguslik isik",1561,1510,1604,1533,1595,1659,1601,1685,1650,1697,1745,1715,1754,1731,1779,1890,1831,1903,1901,1926
+"Keskmine brutokuupalk, standardviga, eurot","Kokku",11,8,11,8,9,9,8,8,8,9,7,6,6,6,7,10,9,9,10,10
+"Keskmine brutokuupalk, standardviga, eurot","Riik",4,3,3,3,4,3,2,2,2,3,5,4,4,4,5,23,11,12,23,14
+"Keskmine brutokuupalk, standardviga, eurot","Kohalik omavalitsus",4,4,3,4,4,4,2,4,3,4,11,8,9,7,11,14,8,10,9,14
+"Keskmine brutokuupalk, standardviga, eurot","Eesti eraõiguslik isik",13,12,12,12,13,14,13,13,11,14,11,10,10,10,11,15,13,13,15,15
+"Keskmine brutokuupalk, standardviga, eurot","Välismaa eraõiguslik isik",40,18,40,19,23,19,17,18,17,19,15,13,12,13,15,24,22,18,21,24
+"Keskmine brutokuupalk, suhteline standardviga, %","Kokku",0.9,0.6,0.9,0.6,0.6,0.6,0.6,0.6,0.5,0.6,0.5,0.4,0.4,0.4,0.5,0.7,0.6,0.6,0.6,0.6
+"Keskmine brutokuupalk, suhteline standardviga, %","Riik",0.3,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.3,0.2,0.2,0.2,0.2,1.2,0.6,0.6,1.2,0.7
+"Keskmine brutokuupalk, suhteline standardviga, %","Kohalik omavalitsus",0.4,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.2,0.3,0.8,0.6,0.7,0.5,0.8,1.0,0.6,0.8,0.7,0.9
+"Keskmine brutokuupalk, suhteline standardviga, %","Eesti eraõiguslik isik",1.1,1.1,1.0,1.0,1.1,1.1,1.1,1.0,0.9,1.0,0.9,0.8,0.8,0.8,0.8,1.1,1.0,1.0,1.0,1.0
+"Keskmine brutokuupalk, suhteline standardviga, %","Välismaa eraõiguslik isik",2.6,1.2,2.5,1.2,1.4,1.1,1.1,1.1,1.1,1.1,0.9,0.7,0.7,0.8,0.9,1.3,1.2,1.0,1.1,1.2
+"Keskmise brutokuupalga muutus võrreldes eelmise aasta sama perioodiga, %","Kokku",..,7.7,6.4,7.5,8.9,..,7.9,7.4,8.2,6.3,..,4.8,1.0,3.2,2.9,..,4.9,7.3,7.8,7.3
+"Keskmise brutokuupalga muutus võrreldes eelmise aasta sama perioodiga, %","Riik",..,9.0,6.7,11.9,9.2,..,10.9,11.2,10.3,7.0,..,6.4,2.3,5.0,3.7,..,3.5,6.4,5.7,7.3
+"Keskmise brutokuupalga muutus võrreldes eelmise aasta sama perioodiga, %","Kohalik omavalitsus",..,12.3,6.7,20.2,12.1,..,9.6,9.2,9.9,8.0,..,4.5,2.0,3.5,1.9,..,4.7,4.9,4.8,6.1
+"Keskmise brutokuupalga muutus võrreldes eelmise aasta sama perioodiga, %","Eesti eraõiguslik isik",..,7.8,6.3,5.5,8.1,..,7.3,7.1,7.5,5.6,..,3.2,-2.1,1.5,1.1,..,5.1,9.3,9.3,8.7
+"Keskmise brutokuupalga muutus võrreldes eelmise aasta sama perioodiga, %","Välismaa eraõiguslik isik",..,6.1,6.5,5.2,9.4,..,6.0,5.0,7.6,6.3,..,7.1,4.1,4.9,4.9,..,6.7,8.5,9.8,8.2
+"Keskmise brutokuupalga muutus võrreldes eelmise perioodiga, %","Kokku",7.3,-2.3,6.4,-2.3,7.2,7.4,-3.2,5.9,-1.6,5.4,2.9,-4.6,2.1,0.5,5.1,6.9,-2.8,4.4,1.0,4.7
+"Keskmise brutokuupalga muutus võrreldes eelmise perioodiga, %","Riik",9.2,-4.3,6.3,-4.4,12.3,9.8,-2.8,6.6,-5.2,8.9,4.3,-3.4,2.5,-2.6,7.5,5.8,-3.6,5.4,-3.3,9.2
+"Keskmise brutokuupalga muutus võrreldes eelmise perioodiga, %","Kohalik omavalitsus",12.6,-6.2,10.3,-5.5,14.7,9.1,-8.3,9.8,-4.9,12.7,2.9,-11.2,7.1,-3.4,11.0,5.2,-8.8,7.3,-3.5,12.5
+"Keskmise brutokuupalga muutus võrreldes eelmise perioodiga, %","Eesti eraõiguslik isik",6.4,-3.0,5.3,0.2,5.7,6.9,-3.7,5.0,0.6,3.8,0.8,-5.9,-0.4,4.4,3.3,8.2,-2.1,3.5,4.3,2.8
+"Keskmise brutokuupalga muutus võrreldes eelmise perioodiga, %","Välismaa eraõiguslik isik",7.2,3.6,6.3,-4.4,4.0,6.2,0.4,5.3,-2.1,2.8,5.2,1.1,2.2,-1.3,2.8,8.3,2.9,3.9,-0.1,1.3
+"Keskmine kuutööjõukulu töötaja kohta, eurot","Kokku",1756,1667,1771,1733,1855,1886,1798,1900,1870,1974,1913,1876,1815,1933,2032,2063,1960,2033,2078,2179
+"Keskmine kuutööjõukulu töötaja kohta, eurot","Riik",2169,2057,2186,2089,2344,2368,2276,2406,2292,2500,2460,2419,2421,2415,2584,2584,2461,2578,2533,2765
+"Keskmine kuutööjõukulu töötaja kohta, eurot","Kohalik omavalitsus",1554,1433,1577,1492,1711,1695,1570,1722,1638,1847,1739,1638,1740,1694,1884,1829,1714,1831,1772,1999
+"Keskmine kuutööjõukulu töötaja kohta, eurot","Eesti eraõiguslik isik",1567,1486,1563,1567,1655,1676,1595,1675,1683,1750,1649,1633,1486,1710,1769,1816,1716,1759,1867,1922
+"Keskmine kuutööjõukulu töötaja kohta, eurot","Välismaa eraõiguslik isik",2104,2038,2160,2070,2149,2236,2160,2271,2221,2288,2333,2315,2272,2341,2406,2547,2459,2555,2565,2608
+"Keskmine kuutööjõukulu töötaja kohta, standardviga, eurot","Kokku",15.1,10.2,15.1,10.5,11.7,11.9,10.8,10.9,10.1,11.9,9.3,8.2,8.7,8.4,9.3,13.7,12.2,11.9,13.4,13.7
+"Keskmine kuutööjõukulu töötaja kohta, standardviga, eurot","Riik",5.8,4.3,4.5,4.6,5.8,3.5,2.3,3.0,1.9,3.5,6.4,5.1,5.8,5.9,6.4,33.2,15.6,16.3,33.2,23.7
+"Keskmine kuutööjõukulu töötaja kohta, standardviga, eurot","Kohalik omavalitsus",5.8,4.7,4.0,4.7,5.8,5.8,3.3,4.8,3.4,5.8,14.7,10.6,14.4,9.3,14.7,19.2,11.4,14.5,13.2,19.2
+"Keskmine kuutööjõukulu töötaja kohta, standardviga, eurot","Eesti eraõiguslik isik",17.6,15.7,16.3,15.7,17.6,18.5,17.0,16.9,15.1,18.5,14.9,13.2,14.1,13.6,14.9,20.2,18.2,17.9,19.5,20.2
+"Keskmine kuutööjõukulu töötaja kohta, standardviga, eurot","Välismaa eraõiguslik isik",54.0,24.2,54.0,25.9,30.1,25.5,23.7,25.1,23.2,25.5,20.3,17.2,17.4,17.4,20.3,32.6,29.6,24.7,28.6,32.6
+"Keskmine kuutööjõukulu töötaja kohta, suhteline standardviga, %","Kokku",0.9,0.6,0.9,0.6,0.6,0.6,0.6,0.6,0.5,0.6,0.5,0.4,0.5,0.4,0.5,0.7,0.6,0.6,0.6,0.6
+"Keskmine kuutööjõukulu töötaja kohta, suhteline standardviga, %","Riik",0.3,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.3,0.2,0.2,0.2,0.2,1.3,0.6,0.6,1.3,0.9
+"Keskmine kuutööjõukulu töötaja kohta, suhteline standardviga, %","Kohalik omavalitsus",0.4,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.2,0.3,0.8,0.6,0.8,0.5,0.8,1.1,0.7,0.8,0.7,1.0
+"Keskmine kuutööjõukulu töötaja kohta, suhteline standardviga, %","Eesti eraõiguslik isik",1.1,1.1,1.0,1.0,1.1,1.1,1.1,1.0,0.9,1.1,0.9,0.8,1.0,0.8,0.8,1.1,1.1,1.0,1.0,1.1
+"Keskmine kuutööjõukulu töötaja kohta, suhteline standardviga, %","Välismaa eraõiguslik isik",2.6,1.2,2.5,1.3,1.4,1.1,1.1,1.1,1.0,1.1,0.9,0.7,0.8,0.7,0.8,1.3,1.2,1.0,1.1,1.3
+"Keskmine brutotunnipalk, eurot","Kokku",7.56,7.38,7.50,7.51,7.85,8.13,7.90,8.22,8.01,8.40,8.50,8.37,8.69,8.28,8.65,9.00,8.99,9.07,8.84,9.09
+"Keskmine brutotunnipalk, eurot","Riik",8.99,8.75,8.98,8.87,9.34,9.86,9.58,10.12,9.52,10.20,10.51,10.26,10.96,10.10,10.69,11.02,11.02,11.34,10.64,11.01
+"Keskmine brutotunnipalk, eurot","Kohalik omavalitsus",6.85,6.73,6.79,6.80,7.05,7.52,7.34,7.64,7.33,7.73,7.82,7.70,8.07,7.52,7.92,8.16,8.28,8.31,7.85,8.15
+"Keskmine brutotunnipalk, eurot","Eesti eraõiguslik isik",6.90,6.72,6.81,6.88,7.22,7.36,7.11,7.42,7.29,7.60,7.57,7.49,7.62,7.45,7.72,8.11,8.02,8.08,8.08,8.25
+"Keskmine brutotunnipalk, eurot","Välismaa eraõiguslik isik",8.83,8.65,8.82,8.78,9.06,9.47,9.22,9.51,9.38,9.74,9.99,9.81,10.27,9.76,10.12,10.72,10.75,10.86,10.47,10.80
+"Keskmine brutotunnipalk, standardviga, eurot","Kokku",0.05,0.05,0.04,0.05,0.05,0.05,0.04,0.05,0.05,0.04,0.04,0.04,0.03,0.04,0.04,0.06,0.05,0.05,0.06,0.05
+"Keskmine brutotunnipalk, standardviga, eurot","Riik",0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.03,0.02,0.03,0.03,0.03,0.15,0.06,0.09,0.15,0.06
+"Keskmine brutotunnipalk, standardviga, eurot","Kohalik omavalitsus",0.03,0.02,0.02,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.05,0.05,0.05,0.05,0.05,0.07,0.05,0.05,0.07,0.06
+"Keskmine brutotunnipalk, standardviga, eurot","Eesti eraõiguslik isik",0.07,0.07,0.07,0.07,0.07,0.07,0.06,0.07,0.07,0.07,0.06,0.06,0.05,0.06,0.06,0.08,0.08,0.07,0.08,0.08
+"Keskmine brutotunnipalk, standardviga, eurot","Välismaa eraõiguslik isik",0.10,0.10,0.10,0.09,0.10,0.10,0.09,0.10,0.10,0.10,0.09,0.07,0.07,0.09,0.08,0.12,0.11,0.11,0.11,0.12
+"Keskmine brutotunnipalk, suhteline standardviga, %","Kokku",0.6,0.6,0.6,0.6,0.6,0.6,0.5,0.5,0.6,0.5,0.5,0.4,0.4,0.5,0.4,0.7,0.6,0.6,0.7,0.6
+"Keskmine brutotunnipalk, suhteline standardviga, %","Riik",0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.2,0.2,0.3,0.3,1.4,0.6,0.8,1.4,0.6
+"Keskmine brutotunnipalk, suhteline standardviga, %","Kohalik omavalitsus",0.4,0.3,0.3,0.4,0.3,0.3,0.2,0.3,0.3,0.2,0.6,0.6,0.6,0.6,0.6,0.9,0.6,0.6,0.9,0.8
+"Keskmine brutotunnipalk, suhteline standardviga, %","Eesti eraõiguslik isik",1.0,1.1,1.0,1.1,1.0,1.0,0.9,0.9,0.9,0.9,0.8,0.8,0.7,0.8,0.8,1.0,1.0,0.9,1.0,1.0
+"Keskmine brutotunnipalk, suhteline standardviga, %","Välismaa eraõiguslik isik",1.2,1.1,1.2,1.1,1.1,1.1,1.0,1.0,1.1,1.0,0.9,0.8,0.7,0.9,0.8,1.1,1.0,1.0,1.1,1.1
+"Täistööajaga töötaja keskmine brutotunnipalk, eurot","Kokku",7.69,7.51,7.62,7.65,7.98,8.26,8.02,8.36,8.14,8.53,8.64,8.51,8.83,8.42,8.80,9.15,9.13,9.22,9.00,9.25
+"Täistööajaga töötaja keskmine brutotunnipalk, eurot","Riik",9.02,8.79,9.01,8.90,9.37,9.91,9.64,10.16,9.56,10.24,10.57,10.33,11.00,10.15,10.75,11.07,11.09,11.40,10.71,11.05
+"Täistööajaga töötaja keskmine brutotunnipalk, eurot","Kohalik omavalitsus",6.85,6.73,6.80,6.80,7.04,7.51,7.33,7.63,7.32,7.70,7.78,7.67,8.05,7.48,7.87,8.13,8.25,8.29,7.82,8.12
+"Täistööajaga töötaja keskmine brutotunnipalk, eurot","Eesti eraõiguslik isik",7.03,6.85,6.92,7.01,7.34,7.48,7.23,7.55,7.42,7.72,7.72,7.64,7.76,7.59,7.88,8.25,8.15,8.21,8.22,8.40
+"Täistööajaga töötaja keskmine brutotunnipalk, eurot","Välismaa eraõiguslik isik",8.99,8.81,8.98,8.94,9.22,9.65,9.40,9.70,9.56,9.93,10.16,9.99,10.43,9.94,10.29,10.92,10.92,11.06,10.69,11.00
+"Osalise tööajaga töötaja keskmine brutotunnipalk, eurot","Kokku",6.23,6.01,6.23,6.06,6.57,6.79,6.62,6.84,6.58,7.10,7.25,7.07,7.51,7.02,7.39,7.65,7.72,7.76,7.41,7.71
+"Osalise tööajaga töötaja keskmine brutotunnipalk, eurot","Riik",8.58,8.24,8.60,8.50,8.95,9.35,8.88,9.65,9.07,9.73,9.94,9.50,10.54,9.54,10.14,10.44,10.36,10.80,9.83,10.65
+"Osalise tööajaga töötaja keskmine brutotunnipalk, eurot","Kohalik omavalitsus",6.85,6.75,6.76,6.79,7.06,7.61,7.40,7.70,7.40,7.86,8.05,7.91,8.21,7.80,8.21,8.35,8.45,8.46,8.01,8.39
+"Osalise tööajaga töötaja keskmine brutotunnipalk, eurot","Eesti eraõiguslik isik",5.64,5.38,5.66,5.52,5.99,6.17,6.03,6.14,6.04,6.44,6.45,6.33,6.52,6.40,6.55,7.05,7.04,7.10,7.01,7.04
+"Osalise tööajaga töötaja keskmine brutotunnipalk, eurot","Välismaa eraõiguslik isik",5.98,5.78,5.91,5.96,6.24,6.33,6.15,6.34,6.26,6.55,7.25,6.81,7.93,7.03,7.20,7.28,7.59,7.32,6.97,7.26
+"Keskmine tööjõukulu tunnis, eurot","Kokku",11.61,10.81,11.46,12.21,12.01,12.50,11.60,12.54,13.08,12.81,12.87,12.22,12.61,13.58,13.14,13.73,12.95,13.52,14.47,14.00
+"Keskmine tööjõukulu tunnis, eurot","Riik",14.73,13.30,14.50,16.06,15.26,16.13,14.66,16.27,17.39,16.42,16.73,15.55,16.70,18.08,16.79,17.68,16.06,17.56,19.35,17.99
+"Keskmine tööjõukulu tunnis, eurot","Kohalik omavalitsus",11.08,9.45,10.79,13.47,11.26,12.14,10.28,12.07,14.67,12.24,12.45,10.81,12.43,14.85,12.34,13.13,11.53,12.86,15.62,13.06
+"Keskmine tööjõukulu tunnis, eurot","Eesti eraõiguslik isik",10.11,9.58,9.92,10.36,10.61,10.83,10.21,10.83,11.08,11.22,10.85,10.63,10.23,11.20,11.33,11.76,11.29,11.46,12.12,12.16
+"Keskmine tööjõukulu tunnis, eurot","Välismaa eraõiguslik isik",14.00,13.35,14.06,14.55,14.06,14.90,14.10,15.06,15.43,15.01,15.69,15.06,15.83,16.20,15.73,17.08,16.40,17.11,17.69,17.14
+"Keskmine tööjõukulu tunnis, standardviga, eurot","Kokku",0.10,0.07,0.10,0.08,0.08,0.08,0.07,0.07,0.08,0.08,0.06,0.05,0.06,0.06,0.06,0.10,0.08,0.08,0.10,0.09
+"Keskmine tööjõukulu tunnis, standardviga, eurot","Riik",0.05,0.03,0.03,0.05,0.03,0.03,0.02,0.02,0.02,0.03,0.05,0.03,0.04,0.05,0.05,0.27,0.11,0.12,0.27,0.22
+"Keskmine tööjõukulu tunnis, standardviga, eurot","Kohalik omavalitsus",0.04,0.03,0.03,0.04,0.04,0.05,0.02,0.04,0.05,0.04,0.20,0.07,0.12,0.20,0.10,0.27,0.08,0.12,0.27,0.15
+"Keskmine tööjõukulu tunnis, standardviga, eurot","Eesti eraõiguslik isik",0.12,0.10,0.11,0.11,0.12,0.12,0.11,0.11,0.10,0.12,0.10,0.09,0.10,0.09,0.10,0.13,0.11,0.12,0.13,0.13
+"Keskmine tööjõukulu tunnis, standardviga, eurot","Välismaa eraõiguslik isik",0.34,0.15,0.34,0.19,0.19,0.17,0.14,0.17,0.16,0.16,0.13,0.11,0.12,0.11,0.13,0.21,0.19,0.16,0.20,0.21
+"Keskmine tööjõukulu tunnis, suhteline standardviga, %","Kokku",0.8,0.6,0.9,0.7,0.6,0.6,0.6,0.6,0.6,0.6,0.5,0.4,0.5,0.5,0.5,0.7,0.6,0.6,0.7,0.7
+"Keskmine tööjõukulu tunnis, suhteline standardviga, %","Riik",0.3,0.2,0.2,0.3,0.2,0.2,0.1,0.1,0.1,0.2,0.3,0.2,0.2,0.3,0.3,1.5,0.7,0.7,1.4,1.2
+"Keskmine tööjõukulu tunnis, suhteline standardviga, %","Kohalik omavalitsus",0.4,0.3,0.3,0.3,0.4,0.4,0.2,0.4,0.4,0.3,1.6,0.7,1.0,1.4,0.8,2.1,0.7,0.9,1.7,1.2
+"Keskmine tööjõukulu tunnis, suhteline standardviga, %","Eesti eraõiguslik isik",1.2,1.1,1.1,1.1,1.1,1.1,1.1,1.0,0.9,1.1,0.9,0.8,0.9,0.8,0.9,1.1,1.0,1.0,1.1,1.1
+"Keskmine tööjõukulu tunnis, suhteline standardviga, %","Välismaa eraõiguslik isik",2.4,1.1,2.4,1.3,1.3,1.2,1.0,1.1,1.1,1.1,0.8,0.7,0.7,0.7,0.8,1.2,1.2,0.9,1.1,1.2
+"Töötatud tunnid ühe töötaja kohta, tundi","Kokku",454,462,464,426,463,453,465,455,429,462,446,461,432,427,464,451,454,451,431,467
+"Töötatud tunnid ühe töötaja kohta, tundi","Riik",442,464,452,390,461,440,466,444,395,457,441,467,435,401,462,439,460,441,393,461
+"Töötatud tunnid ühe töötaja kohta, tundi","Kohalik omavalitsus",421,455,438,332,456,419,458,428,335,453,419,455,420,342,458,418,446,427,340,459
+"Töötatud tunnid ühe töötaja kohta, tundi","Eesti eraõiguslik isik",465,466,473,454,468,464,469,464,456,468,456,461,436,458,469,463,456,461,462,474
+"Töötatud tunnid ühe töötaja kohta, tundi","Välismaa eraõiguslik isik",451,458,461,427,459,450,460,453,432,457,446,461,430,433,459,447,450,448,435,457
+"Töötatud tunnid ühe töötaja kohta, standardviga, tundi","Kokku",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Töötatud tunnid ühe töötaja kohta, standardviga, tundi","Riik",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,1,2
+"Töötatud tunnid ühe töötaja kohta, standardviga, tundi","Kohalik omavalitsus",1,0,0,1,0,1,0,1,1,0,4,1,2,4,1,5,2,2,5,3
+"Töötatud tunnid ühe töötaja kohta, standardviga, tundi","Eesti eraõiguslik isik",1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1
+"Töötatud tunnid ühe töötaja kohta, standardviga, tundi","Välismaa eraõiguslik isik",2,2,1,2,2,2,2,1,2,1,1,1,1,1,1,2,1,1,2,1
+"Töötatud tunnid ühe töötaja kohta, suhteline standardviga, %","Kokku",0.2,0.2,0.1,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.1,0.2,0.2,0.2,0.3,0.2
+"Töötatud tunnid ühe töötaja kohta, suhteline standardviga, %","Riik",0.1,0.0,0.0,0.1,0.1,0.1,0.0,0.0,0.1,0.1,0.2,0.1,0.1,0.3,0.1,0.4,0.1,0.1,0.4,0.3
+"Töötatud tunnid ühe töötaja kohta, suhteline standardviga, %","Kohalik omavalitsus",0.2,0.1,0.1,0.2,0.1,0.3,0.1,0.2,0.3,0.1,0.9,0.3,0.4,1.1,0.2,1.2,0.3,0.5,1.6,0.6
+"Töötatud tunnid ühe töötaja kohta, suhteline standardviga, %","Eesti eraõiguslik isik",0.3,0.3,0.2,0.3,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.2,0.3,0.3,0.2,0.3,0.3,0.2,0.3,0.3
+"Töötatud tunnid ühe töötaja kohta, suhteline standardviga, %","Välismaa eraõiguslik isik",0.4,0.3,0.3,0.4,0.4,0.4,0.3,0.3,0.4,0.3,0.3,0.1,0.2,0.3,0.1,0.5,0.2,0.2,0.4,0.2
+"Brutopalga kogusumma jaotus, %","Kokku",100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+"Brutopalga kogusumma jaotus, %","Riik",15,16,15,15,16,16,16,16,15,16,18,18,18,18,18,16,17,16,16,16
+"Brutopalga kogusumma jaotus, %","Kohalik omavalitsus",11,10,11,10,11,11,11,11,10,11,14,13,14,14,15,12,12,12,12,13
+"Brutopalga kogusumma jaotus, %","Eesti eraõiguslik isik",48,49,48,49,48,48,48,48,49,47,44,45,43,45,43,47,47,47,48,47
+"Brutopalga kogusumma jaotus, %","Välismaa eraõiguslik isik",26,26,26,26,25,26,26,26,26,25,24,24,25,24,24,24,25,25,25,24
